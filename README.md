@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tyler#dev
+- 👋 Hi, I’m @Tyl3rdev
 - 👀 I’m interested in python & java/java script & C#
 - 🌱 I’m currently learning java script 
 - 💞️ I’m looking to collaborate on <C>
